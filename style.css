@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+    background: linear-gradient(
+        to bottom,
+        #d8b4fe 0%,
+        #c084fc 12%,
+        #a855f7 25%,
+        #9333ea 40%,
+        #7e22ce 55%,
+        #6b21a8 70%,
+        #3b0764 85%,
+        #000000 100%
+    );
+    background-attachment: fixed;
+}
+img {
+    background: white;
+    padding: 10px 10px 30px 10px;
+    border-radius: 8px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+}
